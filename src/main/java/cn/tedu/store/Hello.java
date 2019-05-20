@@ -8,5 +8,6 @@ public class Hello {
 	System.out.println("2222");
 	System.out.println("4444");
 	System.out.println("5555");
+	System.err.println("666");
 }
 }
