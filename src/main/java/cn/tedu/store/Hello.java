@@ -13,5 +13,6 @@ public class Hello {
 	System.out.println("444");
 	System.out.println("777");
 	System.err.println("888");
+	System.out.println("sss");
 }
 }
