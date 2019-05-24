@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	System.out.println("this is a fetch test");
 	System.out.println("fetch 2");
 	System.out.println("dirty mode");
-	System.out.println("999999");
+	System.out.println("heiheihei");
 }
 }
  
