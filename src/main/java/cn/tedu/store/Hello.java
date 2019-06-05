@@ -18,5 +18,6 @@ public class Hello {
 	System.out.println("rest1");
 	System.out.println("rest2");
 	
+	System.out.println("origin");
 }
 }
