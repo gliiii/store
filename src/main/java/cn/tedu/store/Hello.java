@@ -15,5 +15,6 @@ public class Hello {
 	System.err.println("888");
 	System.out.println("ddddqq"); 
 	System.out.println("test reset!");
+	System.out.println("rest1");
 }
 }
