@@ -14,6 +14,7 @@ public static void main(String[] args) {
 	System.out.println("fetch 2");
 	System.out.println("dirty mode");
 	System.out.println("heiheihei");
+	System.out.println("dddddd");
 }
 }
  
