@@ -19,5 +19,6 @@ public class Hello {
 	System.out.println("rest2");
 	
 	System.out.println("origin");
+	System.out.println("test2");
 }
 }
