@@ -15,6 +15,7 @@ public static void main(String[] args) {
 	System.out.println("dirty mode");
 	System.out.println("heiheihei");
 	System.out.println("test3");
+	System.out.println("revert test");
 }
 }
  
