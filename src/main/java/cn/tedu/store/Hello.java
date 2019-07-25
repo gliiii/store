@@ -21,5 +21,6 @@ public class Hello {
 	System.out.println("origin");
 	System.out.println("test2");
 	System.out.println("test444");
+	System.err.println("local testt");
 }
 }
