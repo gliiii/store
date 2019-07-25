@@ -17,7 +17,6 @@ public static void main(String[] args) {
 	System.out.println("test3");
 	System.out.println("revert1");
 	System.out.println("revert2");
-	System.out.println("revert3");
 }
 }
  
