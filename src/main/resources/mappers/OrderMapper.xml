@@ -8,7 +8,7 @@
 	<!--添加用户订单  -->
 	<!-- Integer insertOrder(Order order); -->
 	<!-- oid为实体类当中属性名 -->
-	<insert id="insertOrder" useGeneratedKeys="true" keyProperty="oid">
+	<insert id="insertOrder" useGeneratedKeys="false" keyProperty="oid">
 		INSERT INTO
 			t_order (
 			uid,receiver,

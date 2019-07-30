@@ -20,9 +20,10 @@ public class OrderMapperTestCase {
 	@Test
 	public void insertOrder() {
 		Order order=new Order();
-		order.setUid(16);
+		order.setUid(19);
 		Integer rows=orderMapper.insertOrder(order);
 		System.err.println("rows:"+rows);
+		System.err.println(order.getOid());
 	}
 	
 	@Test
