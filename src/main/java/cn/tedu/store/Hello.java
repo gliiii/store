@@ -23,6 +23,5 @@ public class Hello {
 	System.out.println("test444");
 	System.err.println("local testt");
 	System.err.println("test push commit!");
-	System.err.println("test2");
 }
 }
