@@ -19,6 +19,9 @@ public static void main(String[] args) {
 	System.out.println("revert2");
 	System.out.println("show history");
 	System.out.println("hsitory222");
+
+	System.out.println("show history");
+	System.out.println("history1");
 }
 }
  
