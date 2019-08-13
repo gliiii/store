@@ -18,9 +18,12 @@ public static void main(String[] args) {
 	System.out.println("revert1");
 	System.out.println("revert2");
 	System.out.println("show history");
+<<<<<<< HEAD
 	System.out.println("history1");
 	System.out.println("workspace");
 
+=======
+>>>>>>> branch 'master' of https://github.com/gliiii/store.git
 	System.out.println("hsitory222");
 
 	System.out.println("show history");
