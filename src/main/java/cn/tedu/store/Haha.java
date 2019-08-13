@@ -18,11 +18,13 @@ public static void main(String[] args) {
 	System.out.println("revert1");
 	System.out.println("revert2");
 	System.out.println("show history");
+	System.out.println("history1");
+	System.out.println("workspace");
 	System.out.println("hsitory222");
-
 	System.out.println("show history");
 	System.out.println("history1");
 	System.out.println("sychronize workspacce");
+	System.out.println("111");
 }
 }
  
