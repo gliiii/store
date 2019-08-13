@@ -25,10 +25,7 @@ public static void main(String[] args) {
 	System.out.println("history1");
 	System.out.println("sychronize workspacce");
 	System.out.println("111");
-<<<<<<< HEAD
 	System.out.println("333");
-=======
->>>>>>> branch 'master' of https://github.com/gliiii/store.git
 	System.out.println("222");
 }
 }
