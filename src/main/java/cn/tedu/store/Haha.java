@@ -5,7 +5,6 @@ public static void main(String[] args) {
 	System.out.println("test cancel");
 	System.out.println(System.getProperties().getProperty("file.separator"));
 	System.out.println("111");
-	System.out.println("222");
 }
 }
  
