@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	System.out.println("111");
 	System.out.println("dev conflict");
 	System.out.println("delete fix");
+	System.out.println("delete feature");
 }
 }
  
