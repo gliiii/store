@@ -11,6 +11,7 @@ public static void main(String[] args) {
 	System.out.println("delete fix");
 	System.out.println("delete feature");
 	System.out.println("test conflict");
+	System.out.println("test delete");
 }
 }
  
