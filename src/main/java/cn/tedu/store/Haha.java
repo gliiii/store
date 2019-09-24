@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	System.out.println("dev conflict");
 	System.out.println("delete fix");
 	System.out.println("delete feature");
+	System.out.println("test conflict");
 }
 }
  
