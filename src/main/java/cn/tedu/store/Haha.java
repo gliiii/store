@@ -19,6 +19,7 @@ public static void main(String[] args) {
 	System.out.println("test 333");
 	System.out.println("666");
 	System.out.println("test conflict");
+	System.out.println("1");
 }
 }
  
