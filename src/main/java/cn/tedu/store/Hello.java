@@ -10,5 +10,6 @@ public class Hello {
 		System.out.println("test conflict2");
 		System.out.println("test conflict3");
 		System.out.println("aa");
+		System.out.println("bb");
 	}
 }
